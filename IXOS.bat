@@ -34,7 +34,7 @@ if %input% == 9 notepad
 if %input% == 10 mspaint
 if %input% == 11 cosmos check
 if %input% == 12 goto Apps
-if %input% == 13 start IXTools/OpenMX11/OpenMX11.html
+if %input% == 13 start IXTools/OpenMX11/OpenMX11/OpenMX11.html
 if %input% == 14 start IXTools/DevTools/DevTools.bat
 goto menu
 
